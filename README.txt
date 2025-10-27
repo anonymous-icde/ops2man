@@ -1,3 +1,2 @@
-1. Please unzip code.zip file for the entire code. Follow the readme.md for how to run. 
-2. The supplementary material.pdf is included. 
-3. The data is also included. 
+1. Please unzip code.zip for the entire code. The data is included in the code dir. 
+2. Supplemetary material also included in the repo. 
